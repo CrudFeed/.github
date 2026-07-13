@@ -1,8 +1,21 @@
-<p align="center">
-  <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/8b7a41f5-24de-47a4-b90d-b9d9f1a2182d" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="100" height="100" alt="CrudFeed" src="https://github.com/user-attachments/assets/8b7a41f5-24de-47a4-b90d-b9d9f1a2182d"><br>
+      <sub><b>CrudFeed</b></sub>
+    </td>
+    <td align="center">
+      <img width="100" height="100" alt="CLI" src="https://github.com/user-attachments/assets/bfd3482e-64d4-4a1c-98b4-cdfa91d20fcb"><br>
+      <sub><b>CrudFeed CLI</b></sub>
+    </td>
+    <td align="center">
+      <img width="100" height="100" alt="Web" src="https://github.com/user-attachments/assets/1c781f4c-82d8-4498-b9d5-593336468823"><br>
+      <sub><b>CrudFeed Web</b></sub>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">CrudFeed</h1>
+<br>
 
 <p align="center">
   Lightweight messaging and social content ecosystem. Java-based, clean multi-layered architecture.<br>
