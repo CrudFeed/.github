@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/CrudFeed/CrudFeed-CLI"><img src="https://img.shields.io/badge/CLI_Version-2.0_In_Dev-blue?style=for-the-badge&logo=git&logoColor=white" alt="CLI Version"></a>
+  <a href="https://github.com/CrudFeed/CrudFeed-CLI"><img src="https://img.shields.io/badge/CLI_Version-2.0_READY-blue?style=for-the-badge&logo=git&logoColor=white" alt="CLI Version"></a>
   <a href="https://github.com/CrudFeed/CrudFeed-WEB"><img src="https://img.shields.io/badge/WEB_Version-Pre_Alpha_In_Dev-orange?style=for-the-badge&logo=git&logoColor=white" alt="Web Version"></a>
   <img src="https://img.shields.io/badge/More_Versions-In_the_Future-lightgrey?style=for-the-badge&logo=git&logoColor=white" alt="More Versions In the future">
 </p>
