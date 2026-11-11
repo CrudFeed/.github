@@ -1,100 +1,89 @@
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="100" height="100" alt="CrudFeed" src="https://github.com/user-attachments/assets/8b7a41f5-24de-47a4-b90d-b9d9f1a2182d"><br>
-      <sub><b>CrudFeed</b></sub>
-    </td>
-    <td align="center">
-      <img width="100" height="100" alt="CLI" src="https://github.com/user-attachments/assets/bfd3482e-64d4-4a1c-98b4-cdfa91d20fcb"><br>
-      <sub><b>CrudFeed CLI</b></sub>
-    </td>
-    <td align="center">
-      <img width="100" height="100" alt="Web" src="https://github.com/user-attachments/assets/1c781f4c-82d8-4498-b9d5-593336468823"><br>
-      <sub><b>CrudFeed Web</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <p align="center">
-  Lightweight messaging and social content ecosystem. Java-based, clean multi-layered architecture.<br>
+  <img width="120" height="120" alt="CrudFeed" src="https://github.com/user-attachments/assets/8b7a41f5-24de-47a4-b90d-b9d9f1a2182d">
 </p>
 
+<h1 align="center">CrudFeed</h1>
+
 <p align="center">
-  This repository acts as a landing page. The actual source code lives in separate repos under the organization.
+  A lightweight social network built with a Java backend architecture and IT design.
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/CrudFeed/CrudFeed-CLI"><img src="https://img.shields.io/badge/CLI_Version-2.0_READY-blue?style=for-the-badge&logo=git&logoColor=white" alt="CLI Version"></a>
-  <a href="https://github.com/CrudFeed/CrudFeed-WEB"><img src="https://img.shields.io/badge/WEB_Version-Pre_Alpha_In_Dev-orange?style=for-the-badge&logo=git&logoColor=white" alt="Web Version"></a>
-  <img src="https://img.shields.io/badge/More_Versions-In_the_Future-lightgrey?style=for-the-badge&logo=git&logoColor=white" alt="More Versions In the future">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFX">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 </p>
+
+<br>
 
 <p align="center">
   <sub>🗄 Do you want to see how we started? <a href="https://github.com/M1reXx/CrudFeed">Check the archive</a>.</sub>
 </p>
 
+---
+
 <br>
 
-<p align="center">
-  <font size="7"><b>Powered by</b></font>
-</p>
+> This repository is a landing page. The actual source code lives in separate repositories under the organization.
 
-<p align="center">
-  <img width="40" src="https://img.shields.io/badge/%20-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img width="40" src="https://img.shields.io/badge/%20-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img width="40" src="https://img.shields.io/badge/%20-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate">
-  <img width="40" src="https://img.shields.io/badge/%20-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven">
-  <img width="40" src="https://img.shields.io/badge/%20-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IDEA">
-  <img width="40" src="https://img.shields.io/badge/%20-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-</p>
+<br>
 
----
+## 📦 Modules
+
+| Module | Stack | Status | Access |
+| :--- | :--- | :--- | :--- |
+| **GUI** | Java, JavaFX | [![GUI](https://img.shields.io/badge/IN_DEV-brightgreen?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-GUI) | 🔒 Private |
+| **CLI** | Java | [![CLI](https://img.shields.io/badge/REVISION-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-CLI) | 🔒 Private |
+| **Android** | Kotlin, Gradle | [![Android](https://img.shields.io/badge/PLANNED-lightgrey?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-ANDROID) | 🔒 Private |
+| **Web** | HTML5, CSS, JavaScript | [![Web](https://img.shields.io/badge/ON_HOLD-orange?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-WEB) | 🔒 Private |
+| **CORE** | Java, Spring Framework, Hibernate, ProGuard | ![CORE](https://img.shields.io/badge/CLOSED_SOURCE-red?style=for-the-badge&logo=git&logoColor=white) | 🔒 Closed |
+| **Server** | Java, Spring Boot | [![Server](https://img.shields.io/badge/REVISION-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-SERVER) | 🔒 Private |
+
+<br>
 
 ## 🧱 Architecture
 
-Both versions share the same layered structure — clean separation, no shortcuts:
+All modules share the same layered structure:
 
 ```
 ┌─────────────────┐
-│     Servlet     │  ← handles HTTP requests / CLI commands
+│    Controller   │  ← REST endpoints, receives DTOs
 ├─────────────────┤
 │     Service     │  ← business logic, validation
 ├─────────────────┤
 │    Repository   │  ← Hibernate-backed data access
 ├─────────────────┤
 │      Entity     │  ← JPA entities (Lombok-powered)
-└─────────────────┘
-         │
+└────────┬────────┘
          ▼
      PostgreSQL
 ```
 
-Each layer only talks to the one directly below it. No entity is ever exposed straight to a servlet, no repository ever contains business logic.
+Each layer only talks to the one directly below it. No entity is ever exposed straight to a servlet, and no repository ever contains business logic.
 
----
+<br>
 
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/CrudFeed/CrudFeed-CLI.git
-# or
-git clone https://github.com/CrudFeed/CrudFeed-WEB.git
+git clone https://github.com/CrudFeed/<repository_name>.git
+cd <repository_name>
 ```
 
-Set up PostgreSQL, configure your Hibernate connection settings, and build with Maven:
+Set up PostgreSQL, configure your Hibernate connection settings, then build with Maven:
 
 ```bash
 mvn clean install
 ```
-
----
+<br>
 
 ## 🚧 Status
 
-At this time, the project is being developed in secret
-
----
+The project is currently being developed in private.
