@@ -40,11 +40,11 @@
 | Module | Stack | Status | Access |
 | :--- | :--- | :--- | :--- |
 | **GUI** | Java, JavaFX | [![GUI](https://img.shields.io/badge/IN_DEV-brightgreen?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-GUI) | 🔒 Private |
-| **CLI** | Java | [![CLI](https://img.shields.io/badge/REVISION-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-CLI) | 🔒 Private |
+| **CLI** | Java | [![CLI](https://img.shields.io/badge/REVISION-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-CLI) | 🔓 Public |
 | **Android** | Kotlin, Gradle | [![Android](https://img.shields.io/badge/PLANNED-lightgrey?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-ANDROID) | 🔒 Private |
-| **Web** | HTML5, CSS, JavaScript | [![Web](https://img.shields.io/badge/ON_HOLD-orange?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-WEB) | 🔒 Private |
-| **CORE** | Java, Spring Framework, Hibernate, ProGuard | ![CORE](https://img.shields.io/badge/CLOSED_SOURCE-red?style=for-the-badge&logo=git&logoColor=white) | 🔒 Closed |
-| **Server** | Java, Spring Boot | [![Server](https://img.shields.io/badge/REVISION-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-SERVER) | 🔒 Private |
+| **Web** | Java, HTML5, CSS, JavaScript | [![Web](https://img.shields.io/badge/ON_HOLD-orange?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-WEB) | 🔒 Private |
+| **CORE** | Java, Spring Framework, Hibernate | [![CORE](https://img.shields.io/badge/REVISION-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-CORE) | 🔓 Public |
+| **Server** | Java, Spring Boot | [![Server](https://img.shields.io/badge/REVISION-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-SERVER) | 🔓 Public |
 
 <br>
 
@@ -84,6 +84,6 @@ mvn clean install
 ```
 <br>
 
-## 🚧 Status
+## 📄 License
 
-The project is currently being developed in private.
+This project is licensed under the GNU General Public License v3.0 — see the [LICENSE](LICENSE) file for details.
