@@ -41,10 +41,10 @@
 | :--- | :--- | :--- | :--- |
 | **GUI** | Java, JavaFX | [![GUI](https://img.shields.io/badge/IN_DEV-brightgreen?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-GUI) | 🔒 Private |
 | **CLI** | Java | [![CLI](https://img.shields.io/badge/REVISION-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-CLI) | 🔓 Public |
-| **Android** | Kotlin, Gradle | [![Android](https://img.shields.io/badge/PLANNED-lightgrey?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-ANDROID) | 🔒 Private |
-| **Web** | Java, HTML5, CSS, JavaScript | [![Web](https://img.shields.io/badge/ON_HOLD-orange?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-WEB) | 🔒 Private |
+| **ANDROID** | Kotlin, Gradle | [![Android](https://img.shields.io/badge/PLANNED-lightgrey?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-ANDROID) | 🔒 Private |
+| **WEB** | Java, HTML5, CSS, JavaScript | [![Web](https://img.shields.io/badge/ON_HOLD-orange?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-WEB) | 🔒 Private |
 | **CORE** | Java, Spring Framework, Hibernate | [![CORE](https://img.shields.io/badge/REVISION-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-CORE) | 🔓 Public |
-| **Server** | Java, Spring Boot | [![Server](https://img.shields.io/badge/REVISION-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-SERVER) | 🔓 Public |
+| **SERVER** | Java, Spring Boot | [![Server](https://img.shields.io/badge/REVISION-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/CrudFeed/CrudFeed-SERVER) | 🔓 Public |
 
 <br>
 
